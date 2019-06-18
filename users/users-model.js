@@ -4,8 +4,7 @@ module.exports = {
   add,
   find,
   findBy,
-  findById,
-  findByDepartment
+  findById
 };
 
 function find() {
